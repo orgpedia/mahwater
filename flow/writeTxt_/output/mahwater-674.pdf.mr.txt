@@ -39,6 +39,25 @@ Government Resolution :
 The constitution of State Level Steering Committee for effective project
 implementation of DRIP-II project at State level is as follows:
 (A) Composition of State Level Steering Committee – for DRIP-II Project
+-----------------------------------------------------------------------------------
+| Sr. No. | Designation | Designation in committee |
+| 1 | Secretary (CAD & WRM), Water Resources Department, Mantralaya, Mumbai. | Chairman |
+| 2 | Director General, MERI, Nashik | Vice-Chairman |
+| 3 | Chief Engineer, Central Design Organization (CDO), Nashik  |  | Member |
+| 4 | Chief Engineer, WR, Pune | Member |
+| 5 | Chief Engineer, SP, Pune | Member |
+| 6 | Chief Engineer, WR, Nagpur | Member |
+| 7 | Chief Engineer, WR, Amaravati | Member |
+| 8 | Chief Engineer, SP, Amaravati | Member |
+| 9 | Chief Engineer, TIDC, Jalgaon | Member |
+| 10 | Chief Engineer, NMR, Nashik | Member |
+| 11 | Chief Engineer, WR, Aurangabad | Member |
+| 12 | Chief Engineer, CADA, Aurangabad | Member |
+| 13 | Chief Engineer, WR, Kokan Region, Mumbai | Member |
+| 14 | Chief Engineer, Planning & Hydrology, Nashik | Member |
+| 15 | Deputy Secretary, Irrigation Management, Mantralaya,  |  Mumbai. | Member |
+| 16 | Superintending Engineer, Dam Safety Organization, Nashik. | Member Secretary. |
+-----------------------------------------------------------------------------------
 (B) Terms of Reference (ToR) of State Level Steering Committee for DRIP-II Project
 i) Overall Project Planning, Management & Co-ordination at State level.
 ii) Overall Administration for execution of works.

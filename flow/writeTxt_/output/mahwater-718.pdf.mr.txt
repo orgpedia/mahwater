@@ -93,6 +93,14 @@ Resources Department, postalCode=400032, st=M Ramesh Pol 2276bae5e65ea1ad0b96143
 Page 5 of 5
 # Page 6
 Annexure -I of Government of Maharashtra, WRD, Govt. Resolution No. MISC.2017/(139/17)IMW, Mantralaya Mumbai dated: 12/06/2019
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| DSRP Panel No. | Revenue Region | Chairman | Member-1 | Member-2 | Member-3 | Member-4 | Member-5 | Member-6 | Convener and Member Secretary |
+|  |  | Dam Safety Expert | Design Expert | Construction Supervision Expert | Geologist | Hydrologist | Hydro Mechanical Expert | Instrumentation and Seismic Expert |
+| 1 | Nagpur | C. N. Hangekar Retire C.E. WRD | Superintending Éngineer Dam Circle, Central Design Organisation, Nashik | Concerned Chief Engineer | Dinesh Chandra Tripathi Geologist, Haryana | Rakesh kumar Gupta Hydrologist New Delhi | S.K.Srivastava Hydro Mechanical Expert New Delhi | S..D. Ranade, CWPRS, Pune | Concerned Superintending Engineer |
+| 2 | Aurangabad | R.K. Nitturkar Retire C.E. WRD | Superintending Éngineer Gates Circle, Central Design Organisation, Nashik | Concerned Chief Engineer | Arindom Chokraborty Geologist Haryana | Rakesh kumar Gupta Hydrologist New Delhi | S.K.Srivastava Hydro Mechanical Expert New Delhi | Rizwan Ali CWPRS, Pune | Concerned Superintending Engineer |
+| 3 | Pune | D.N.Modak Retire C.E. WRD | Superintending Éngineer Canal Design Circle, Central Design Organisation, Nashik | Concerned Chief Engineer | C.Thanavelu Geologist Tamilnadu | R.S. Gaikwad | V.K.Maini Hydro Mechanical Expert Faridabad | Dr. N.D. Atkekar CWPRS, Pune | Concerned Superintending Engineer |
+| 4 | Nashik, Konkan& Amaravati | B.C.Kunjeer Retire E.D. WRD | Superintending Éngineer Lift Irrigation Scheme Circle, Central Design Organisation, Nashik | Concerned Chief Engineer | C.Thanavelu Geologist Tamilnadu | R.S. Gaikwad | V.K.Maini Hydro Mechanical Expert Faridabad | Sachin Khupat CWPRS, Pune | Concerned Superintending Engineer |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Digitally signed by Rohit Ramesh Pol Rohit Ramesh Pol
 cn
 (Rohit R. POL) Under Secretary, Mantralaya
